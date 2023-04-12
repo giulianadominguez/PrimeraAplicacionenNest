@@ -1,0 +1,1 @@
+console.log('Este es mi primera aplicación en Nest');
